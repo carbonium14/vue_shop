@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b6b09"],{"1ddd":function(n,e,t){"use strict";t.r(e);var d=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v(" 欢迎来到后台管理系统！ ")])},c=[],u={},a=u,r=t("2877"),s=Object(r["a"])(a,d,c,!1,null,"17dd5af6",null);e["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d0b6b09.7564f0fc.js.map
